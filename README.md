@@ -20,5 +20,6 @@ Features
 
 ---
 
-<img width="1845" height="242" alt="discord tool 3" src="https://github.com/user-attachments/assets/37d048ee-9156-45f5-9a7c-6741838b65ee" />
+<img width="944" height="128" alt="image" src="https://github.com/user-attachments/assets/f39314be-dbb9-4749-a373-d1b4e1690ea7" />
+
 
