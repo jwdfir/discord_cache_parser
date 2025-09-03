@@ -25,7 +25,7 @@ Built by **[jwdfir](https://github.com/jwdfir)** to help investigators quickly t
 
 | GUI |
 |-----|
-| <img width="478" height="259" alt="discord tool 2" src="https://github.com/user-attachments/assets/85b91e70-1abf-41fc-85f7-806b24b6366b" />
+<img width="478" height="259" alt="discord tool 2" src="https://github.com/user-attachments/assets/85b91e70-1abf-41fc-85f7-806b24b6366b" />
 
 ---
 | Sample Report |
