@@ -5,7 +5,7 @@ Designed for DFIR practitioners to quickly triage compromised hosts, recover del
 
 ---
 
-✨ Features
+Features
 - Parse `%AppData%\discord\Cache\Cache_Data` for:
   - Cached images, thumbnails, and attachments
   - Webhook URLs & API calls
