@@ -5,8 +5,7 @@
 ![Forensics](https://img.shields.io/badge/forensics-DFIR-critical)
 
 
-A **digital forensics and incident response (DFIR)** tool for extracting, analyzing, and reporting on **Discord cache artifacts**.  
-Built by **[jwdfir](https://github.com/jwdfir)** to help investigators quickly triage compromised systems, recover deleted files, and reconstruct attacker timelines.
+A **digital forensics and incident response (DFIR)** tool for extracting, analyzing, and reporting on **Discord cache artifacts**.  Built by **[jwdfir](https://github.com/jwdfir)** to help investigators quickly triage compromised systems, recover deleted files, and reconstruct attacker timelines.
 
 ---
 
