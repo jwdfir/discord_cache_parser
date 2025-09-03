@@ -23,12 +23,13 @@ Built by **[jwdfir](https://github.com/jwdfir)** to help investigators quickly t
 
 ## 📸 Screenshots
 
-| GUI | Sample Report |
-|-----|---------------|
+| GUI |
+|-----|
 | <img width="478" height="259" alt="discord tool 2" src="https://github.com/user-attachments/assets/85b91e70-1abf-41fc-85f7-806b24b6366b" />
 
 ---
-
+| Sample Report |
+|-----|
 <img width="944" height="128" alt="image" src="https://github.com/user-attachments/assets/f39314be-dbb9-4749-a373-d1b4e1690ea7" />
 
 
