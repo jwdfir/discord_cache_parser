@@ -1,0 +1,4 @@
+tk
+Pillow
+pandas
+pyinstaller
