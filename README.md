@@ -1,8 +1,9 @@
 # 🕵️‍♂️ Discord Forensic Suite
-[![License](https://img.shields.io/github/license/jwdfir/discord_cache_parser)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success)
+![Forensics](https://img.shields.io/badge/forensics-DFIR%20Ready-critical)
+
 
 A **digital forensics and incident response (DFIR)** tool for extracting, analyzing, and reporting on **Discord cache artifacts**.  
 Built by **[jwdfir](https://github.com/jwdfir)** to help investigators quickly triage compromised systems, recover deleted files, and reconstruct attacker timelines.
