@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Forensics](https://img.shields.io/badge/forensics-DFIR%20Ready-critical)
+![Forensics](https://img.shields.io/badge/forensics-DFIR-critical)
 
 
 A **digital forensics and incident response (DFIR)** tool for extracting, analyzing, and reporting on **Discord cache artifacts**.  
