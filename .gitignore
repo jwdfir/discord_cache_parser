@@ -1,0 +1,19 @@
+# Python
+__pycache__
+.pyc
+.pyo
+.pyd
+.log
+
+# Build artifacts
+build
+dist
+.spec
+
+# Virtual environments
+venv
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
