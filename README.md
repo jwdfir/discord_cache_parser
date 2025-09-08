@@ -10,11 +10,11 @@ A **digital forensics and incident response (DFIR)** tool for extracting, analyz
 ---
 
 ## ✨ Features
-- 🔍 **Deep Cache Analysis:** Parse `%AppData%\discord\Cache\Cache_Data` for:
+- 🔍 **Deep Cache Analysis:** Parse for:
   - Attachments, images, thumbnails
   - Webhook URLs & API calls
   - Recon and exfil files
-- 📑 **HTML Reports:** Auto-generate forensic reports with SHA256 hashes and timestamps.
+- 📑 **HTML / CSV Reports:** Auto-generate forensic reports with SHA256 hashes and timestamps.
 - 📦 **Evidence Package Mode:** Bundle artifacts, a manifest, and the HTML report into a portable ZIP.
 - 🖥️ **GUI & CLI:** Choose between a command-line parser or a full GUI application.
 - 🔒 **Investigator-Friendly:** Simple, self-contained tool. No Discord API keys or elevated privileges needed.
@@ -25,11 +25,22 @@ A **digital forensics and incident response (DFIR)** tool for extracting, analyz
 
 | GUI |
 |-----|
-<img width="478" height="259" alt="discord tool 2" src="https://github.com/user-attachments/assets/85b91e70-1abf-41fc-85f7-806b24b6366b" />
+<img width="944" height="592" alt="image" src="https://github.com/user-attachments/assets/d6a73a51-f3eb-4bd1-a621-242c3da5b821" />
 
 ---
 | Sample Report |
 |-----|
-<img width="944" height="128" alt="image" src="https://github.com/user-attachments/assets/f39314be-dbb9-4749-a373-d1b4e1690ea7" />
+<img width="944" height="479" alt="image" src="https://github.com/user-attachments/assets/4b06249f-6813-4716-ad00-a6c5a81d96e5" />
+
+| Sample CSV Timeline |
+|-----|
+<img width="944" height="77" alt="image" src="https://github.com/user-attachments/assets/95cc423c-3e1e-48c2-92a3-bd4a3a01a9ca" />
+
+| Sample CSV Report |
+|-----|
+<img width="944" height="152" alt="image" src="https://github.com/user-attachments/assets/37372fd8-623c-416a-9fa4-93cb3b7cf597" />
+
+
+
 
 
