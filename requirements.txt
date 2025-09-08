@@ -1,4 +1,5 @@
 tk
 Pillow
 pandas
-pyinstaller
+brotli
+ttkbootstrap
