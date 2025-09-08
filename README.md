@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Forensics](https://img.shields.io/badge/forensics-DFIR-critical)
 ![Release](https://img.shields.io/github/v/release/jwdfir/discord_cache_parser)
 
 
