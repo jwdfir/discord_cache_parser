@@ -33,7 +33,7 @@ A **digital forensics and incident response (DFIR)** tool for extracting, analyz
 <img width="904" height="375" alt="image" src="https://github.com/user-attachments/assets/5d2f9580-fcbe-4d61-af00-ef9e3183b49a" />
 
 ---
-| Sample Report |
+| Sample HTML Report |
 |-----|
 <img width="944" height="479" alt="image" src="https://github.com/user-attachments/assets/4b06249f-6813-4716-ad00-a6c5a81d96e5" />
 
