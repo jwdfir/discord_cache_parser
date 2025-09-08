@@ -28,14 +28,21 @@ A **digital forensics and incident response (DFIR)** tool for extracting, analyz
 <img width="944" height="592" alt="image" src="https://github.com/user-attachments/assets/d6a73a51-f3eb-4bd1-a621-242c3da5b821" />
 
 ---
+| CLI |
+|-----|
+<img width="904" height="375" alt="image" src="https://github.com/user-attachments/assets/5d2f9580-fcbe-4d61-af00-ef9e3183b49a" />
+
+---
 | Sample Report |
 |-----|
 <img width="944" height="479" alt="image" src="https://github.com/user-attachments/assets/4b06249f-6813-4716-ad00-a6c5a81d96e5" />
 
+---
 | Sample CSV Timeline |
 |-----|
 <img width="944" height="77" alt="image" src="https://github.com/user-attachments/assets/95cc423c-3e1e-48c2-92a3-bd4a3a01a9ca" />
 
+---
 | Sample CSV Report |
 |-----|
 <img width="944" height="152" alt="image" src="https://github.com/user-attachments/assets/37372fd8-623c-416a-9fa4-93cb3b7cf597" />
